@@ -7,8 +7,13 @@ video {
 }
 
 .hero-container {
+
     /* background: url('../../public/images/img-home.jpg') center center/cover no-repeat; */
     /* This is a marge conflict */
+
+
+    /* hello world */
+
     height: 100vh;
     width: 100%;
     display: flex;
